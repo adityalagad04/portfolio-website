@@ -43,6 +43,12 @@ portfolio-website/
 
 ---
 
+![Home Page](home.png)
+![Skills Page](skills.png)
+![Contact Page](contact.png)
+
+---
+
 ## 💻 How to Run Locally
 1. Clone the repository:
    ```bash
